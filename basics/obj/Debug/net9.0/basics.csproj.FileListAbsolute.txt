@@ -94,3 +94,4 @@
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/basics.pdb
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/basics.genruntimeconfig.cache
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/ref/basics.dll
+/Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/basics.sourcelink.json
