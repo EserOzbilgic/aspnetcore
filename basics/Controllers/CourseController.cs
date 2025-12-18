@@ -14,6 +14,16 @@ public class CourseController : Controller
         return View(course);
     }
 
+        public IActionResult Details()
+    {
+        var course = new Course();
+        course.Id = 1;
+        course.Title = "ASP.NET Core MVC";
+        course.Description = "Learn the basics of ASP.NET Core MVC framework.";
+        course.Image = "1.jpg";
+        return View(course);
+    }
+
       public IActionResult List()
     {
         var courses = new List<Course>
