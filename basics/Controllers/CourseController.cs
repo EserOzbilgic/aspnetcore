@@ -2,25 +2,17 @@ using basics.Models;
 using Microsoft.AspNetCore.Mvc;
 namespace basics.Controllers;
 
-public class CourseController : Controller
-{
-    public IActionResult Index()
+public class CourseController : Controller {
+   public IActionResult Details(int? id)
     {
-        var course = new Course();
-        course.Id = 1;
-        course.Title = "ASP.NET Core MVC";
-        course.Description = "Learn the basics of ASP.NET Core MVC framework.";
-        course.Image = "1.jpg";
-        return View(course);
-    }
+       if (id == null)
+        {
+            //  return Redirect("/course/list"); 
+            return RedirectToAction("List","Course");
+       }
 
-        public IActionResult Details()
-    {
-        var course = new Course();
-        course.Id = 1;
-        course.Title = "ASP.NET Core MVC";
-        course.Description = "Learn the basics of ASP.NET Core MVC framework.";
-        course.Image = "1.jpg";
+       var course = Repository.GetById(id);
+
         return View(course);
     }
 
