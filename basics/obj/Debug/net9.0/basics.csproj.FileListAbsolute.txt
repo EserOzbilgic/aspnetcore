@@ -21,7 +21,6 @@
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/scopedcss/bundle/basics.styles.css
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/scopedcss/projectbundle/basics.bundle.scp.css
-/Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/8wqu4ppjvo-b9sayid5wm.gz
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/axeuv6o7e0-61n19gt1b8.gz
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/j3g49lucto-xtxxf3hu2r.gz
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/6ffh29unxx-bqjiyaj88i.gz
@@ -96,3 +95,4 @@
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/ref/basics.dll
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/basics.sourcelink.json
 /Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/yyg9ir8v35-5ipweew5fc.gz
+/Users/eserozbilgic/Desktop/aspnetcore/basics/obj/Debug/net9.0/compressed/8wqu4ppjvo-ktkj6bz9j4.gz
